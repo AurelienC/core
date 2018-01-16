@@ -1,2 +1,4 @@
 exclude:
 - /3rdparty/.*
+languages:
+- php
